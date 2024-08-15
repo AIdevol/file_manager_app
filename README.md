@@ -6,7 +6,7 @@ Welcome to **File Manager App**, your ultimate companion for streamlined file ma
 ## What Makes File Manager App Special?
 
 File Manager App is not just another file management tool; it's a revolution in mobile file organization. Crafted with Flutter, it empowers users to effortlessly organize, browse, and manage files on their devices. With its sleek interface and powerful features, File Manager App redefines the way you interact with your files, offering unparalleled ease and efficiency.
-   
+     
 ## Features That Set Us Apart
  
 - **Intuitive Interface**: Seamlessly navigate files with our intuitively designed interface.
